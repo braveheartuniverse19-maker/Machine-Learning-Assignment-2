@@ -3,12 +3,6 @@ BITS Pilani M Tech - Machine Learning Assignment 2
 
 # Credit Card Default Prediction
 
-## Student Information
-- Name: SWARUP GHOSH
-- Student ID: 2025AB05294
-- Course: M.Tech AIML
-- Assignment: ML Assignment 2
-
 ## (a) Problem Statement
 Predict whether a customer will default on the next month's credit card payment.
 
