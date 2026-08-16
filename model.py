@@ -14,7 +14,7 @@ from sklearn.metrics import (
 import joblib
 import os
 
-
+os.makedirs('model', exist_ok=True)
 df = pd.read_csv("/home/cloud/Desktop/ML Assignment 2/UCI_Credit_Card.csv")
 
 print("Shape (rows, columns):", df.shape)
